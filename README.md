@@ -7,9 +7,12 @@ Fórum de discussões da Comunidade de PHP do Paraná
 ## Como participar ##
 
 Elabore sua dúvida e crie uma [issue](https://github.com/phppr/forum/issues/new) colocando na frente do título o assunto:
-- [Dúvida]
+
 - [Ajuda]
+- [Dúvida]
+- [Eventos]
 - [Discussão]
+- [Ideia]
 - [Outro]
 
 exemplo: `[Ajuda] Gostaria da Ajuda de vocês com links de artigos de como usar o PHPUnit`
