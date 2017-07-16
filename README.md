@@ -1,8 +1,8 @@
 # Fórum PHP PR
 
-> Fórum de discussões da Comunidade de PHP do Paraná
+Fórum de discussões da Comunidade de PHP do Paraná
 
-_**Aviso Legal:** As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._
+> :warning: _**Aviso Legal:** As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._
 
 ## Como participar ##
 
